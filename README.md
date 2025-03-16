@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha</h1>
-<h3 align="center">keen interest in developing, analysis, science and surfing!</h3>
+<h3 align="center">keen interest in **developing, analysis, science and surfing!**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishaadora&label=Profile%20views&color=0e75b6&style=flat" alt="dishaadora" /> </p>
 
@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **dishaadora@gmail.com**
 
-- 📄 Know about my experiences [It will soon be available in my portfolio!](It will soon be available in my portfolio!)
-
+- 📄 Know about my experiences [It will soon be available in my portfolio!]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/disha-dora-47b59925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-dora-47b59925b" height="30" width="40" /></a>
