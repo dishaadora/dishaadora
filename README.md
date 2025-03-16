@@ -1,6 +1,9 @@
-Hi, I'm Disha <br/>
-Computer Science Student at GITAM University <br/>  
-I am a creative developer and I conceptualize my ideas to stay consistent
+👋 Hi, I’m Disha<br/>
+🌊 keen interest in developing, analysis, science and surfing<br/>
+⌨️ currently learning Computer Science and Engineering with additional perks of being a student<br/>
+👾 looking to collaborate on diverse projects and building new stuff<br/>
+✉️ You can reach me by mailing me on dishaadora@gmail.com<br/>
+⚙️ I will be deploying projects and collaborating with teams, wish me luck! ;)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dishadora_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/disha-dora-47b59925b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cooked_cache_101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dishaadora@gmail.com) 
